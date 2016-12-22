@@ -1,0 +1,44 @@
+/* CSS for quiz page */
+
+body {
+     background-color: rgb(86, 217, 135);
+     text-align: center; 
+     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+div {
+	text-align: center;
+	background-color: rgb(79, 152, 144);
+	display: inline-block;
+	vertical-align: top;
+	width: 100%;
+	margin: 2%; 
+	min-height: 250px; 
+	max-width: 250px; 
+	
+}
+
+div#contents {
+	text-align: left;
+}
+
+footer {
+       text-align: right;
+       background-color: lavender;
+       clear: both;
+}
+
+/* all headings */
+h1,h2,h3 {
+	 text-align: center;
+	 background-color: lavender;
+}
+
+button {
+       color: ivory;
+       font-size: x-large;
+       border: ivory;
+       border-width: 4px;
+       background-color: salmon;
+       margin: 5px;
+}
